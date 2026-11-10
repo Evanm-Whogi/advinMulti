@@ -2,6 +2,8 @@
 
 AdvinMulti is a sleek and efficient Discord bot developed using discord.js. This bot provides real-time stock updates and notifications to users. Stay informed about stock changes effortlessly right in your discord server.
 
+Notice: This is an old legacy bot and has been replaced by: https://github.com/Evanm-Whogi/advinStock
+
 ![AdvinMulti Banner](https://cdn.chit.sh/dOxcGWzFRbQJlNOdxdAhgIsC.png)
 
 ## Features
